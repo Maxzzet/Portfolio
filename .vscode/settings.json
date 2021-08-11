@@ -1,5 +1,9 @@
 {
     "explorer.autoReveal": false,
-    "editor.quickSuggestions": null,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
     "editor.hover.enabled": false
 }
